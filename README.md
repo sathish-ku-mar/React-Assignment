@@ -2,7 +2,7 @@
 ### System Requirements
 
 $ node --version
-    v0.10.24
+    v0.10.24<br />
 $ npm --version
     1.3.21
     
