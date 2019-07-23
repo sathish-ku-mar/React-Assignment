@@ -8,6 +8,10 @@ $ npm --version
     
 ------------
 
+### Clone project to the local machine
+In the terminal, navigate to the location where the project folder has to be created. Then enter the git command to clone the project:<br />`$ git clone https://github.com/sathish-ku-mar/React-Assignment.git`<br />
+Once cloned, change the directory to **React-Assignment**<br />`$ cd React-Assignment`
+
 ## Available Scripts
 
 In the project directory, you can run:
