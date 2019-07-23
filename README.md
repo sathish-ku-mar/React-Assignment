@@ -18,6 +18,12 @@ Once cloned, change the directory to **React-Assignment**<br />`$ cd React-Assig
 Install the npm packages listed in the file.
 Enter the following command in the terminal:<br />`$ npm install`
 
+------------
+
+### Run the development server
+To start the development server, run the following command:<br />`$ npm start`<br />
+By default the server runs on port`3000`<br />
+
 ## Available Scripts
 
 In the project directory, you can run:
