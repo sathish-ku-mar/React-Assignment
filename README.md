@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React-Assignment
+### System Requirements
+$ node --version
+    v0.10.24
+
+$ npm --version
+    1.3.21
+------------
 
 ## Available Scripts
 
